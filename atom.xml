@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuzhiheng-win.github.io</id>
     <title>恒学小站</title>
-    <updated>2020-07-19T00:00:46.936Z</updated>
+    <updated>2020-07-19T00:01:09.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuzhiheng-win.github.io"/>
     <link rel="self" href="https://yuzhiheng-win.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://yuzhiheng-win.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 恒学小站</rights>
     <entry>
-        <title type="html"><![CDATA[研学本-高数-第二章]]></title>
+        <title type="html"><![CDATA[研学本--高数-第二章]]></title>
         <id>https://yuzhiheng-win.github.io/post/yan-xue-ben-gao-shu-di-er-zhang/</id>
         <link href="https://yuzhiheng-win.github.io/post/yan-xue-ben-gao-shu-di-er-zhang/">
         </link>
